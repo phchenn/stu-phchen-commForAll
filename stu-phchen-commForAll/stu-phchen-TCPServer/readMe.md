@@ -1,0 +1,9 @@
+协议格式：1字节是报文类型，4字节报文长度，剩下的是数据
+报文类型：
+客户端->服务端
+clientMessage:业务对象的载体
+communicationBo:
+certificationBo:
+服务端->客户端
+serverMessage:
+toMessageBo:
